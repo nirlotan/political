@@ -1,0 +1,11 @@
+[input]
+"legislators_json" = "../Data/legislators-social-media.json"
+
+[twitter_api]
+"consumer_key" 		  = "CONSUMER_KEY"
+"consumer_secret" 	  = "CONSUMER_SECRET"
+"access_token" 		  = "ACCESS_TOKEN"
+"access_token_secret" = "ACCESS_TOKEN_SECRET"
+
+[SocialVec]
+"model_path" = "../../../SocialVec/SocialVec/models/SocialVec_v6_sg_all.model"
